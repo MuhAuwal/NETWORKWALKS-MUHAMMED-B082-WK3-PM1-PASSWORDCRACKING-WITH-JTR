@@ -1,4 +1,3 @@
-# NETWORKWALKS-MUHAMMED-B082-WK3-PM1-PASSWORDCRACKING-WITH-JTR
 # 🔐 PDF Password Auditing with John the Ripper
 
 <p align="center">
@@ -102,5 +101,8 @@ No recovered passwords or reusable password hashes are published in this reposit
 <p align="center">
 
 **Learning by doing. Building practical cybersecurity skills. 🚀**
+<img width="1022" height="741" alt="Screenshot 2026-11-17 143440" src="https://github.com/user-attachments/assets/fc458fbf-26d5-41cc-b15b-879bcb47a776" />
+<img width="1136" height="828" alt="Screenshot 2026-11-17 140837" src="https://github.com/user-attachments/assets/f11e5e42-bb05-406f-95d9-4ad565b268d5" />
+<img width="1301" height="965" alt="Screenshot 2026-11-17 133814" src="https://github.com/user-attachments/assets/0be09118-2519-4425-aebf-cdc81b55ed39" />
 
 </p>
